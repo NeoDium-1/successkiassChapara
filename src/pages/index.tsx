@@ -24,6 +24,6 @@ const Home: NextPageWithLayout = () => {
   )
 }
 
-Home.getLayout = (page) => <MainLayout>{page}</MainLayout>
+//Home.getLayout = (page) => <MainLayout>{page}</MainLayout>
 
 export default Home
